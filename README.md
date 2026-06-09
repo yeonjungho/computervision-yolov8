@@ -20,7 +20,8 @@
 | 실험 모델 | 학습 곡선 (Results) | 탐지 결과 (Prediction) |
 | :--- | :---: | :---: |
 | **Baseline** | <img src="https://github.com/user-attachments/assets/b72538b3-0f41-408e-9dd5-633c1729c4cd" width="200"> | <img src="https://github.com/user-attachments/assets/f317852b-a18a-4075-9053-54d0de08c861" width="200"> |
-| **Tuned** | <img src="https://github.com/user-attachments/assets/05a9c47e-a0fb-4dcb-b744-42fcf54b478f" width="200"> | <img src="https://github.com/user-attachments/assets/194d0890-6d5e-42ad-a112-04e99865bc66" width="200"> |
+| **Tuned** | <img src="https://github.com/user-attachments/assets/05a9c47e-a0fb-4dcb-b744-42fcf54b478f" width="200"> | <img width="1464" height="1920" alt="image" src="https://github.com/user-attachments/assets/c6411f4c-9a00-400f-b28f-992adf03b7a0" />
+ |
 | **Heavy** | <img src="https://github.com/user-attachments/assets/190887cf-4f37-4c23-ba59-ffb2853cd303" width="200"> | <img src="https://github.com/user-attachments/assets/525d8487-68d0-4b60-815c-75fd20050714" width="200"> |
 
 ## 4. 핵심 성과 및 고찰
